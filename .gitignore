@@ -1,2 +1,5 @@
 Dataset/merged_journey_data.csv
 geojson/map.geojson
+Dataset/merged_journey_data.zip
+Dataset/merged_journey_data.7z
+figures/coverage_map.html
